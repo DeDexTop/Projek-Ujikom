@@ -1,0 +1,20 @@
+C:\Project\Laundry App\bin\Debug\Laundry App.exe.config
+C:\Project\Laundry App\bin\Debug\Laundry App.exe
+C:\Project\Laundry App\bin\Debug\Laundry App.pdb
+C:\Project\Laundry App\obj\Debug\Laundry App.csproj.AssemblyReference.cache
+C:\Project\Laundry App\obj\Debug\Laundry App.csproj.SuggestedBindingRedirects.cache
+C:\Project\Laundry App\obj\Debug\Laundry_App.Properties.Resources.resources
+C:\Project\Laundry App\obj\Debug\Laundry App.csproj.GenerateResource.cache
+C:\Project\Laundry App\obj\Debug\Laundry App.csproj.CoreCompileInputs.cache
+C:\Project\Laundry App\obj\Debug\Laundry App.exe
+C:\Project\Laundry App\obj\Debug\Laundry App.pdb
+C:\Project\Laundry App\bin\Debug\MySql.Data.dll
+C:\Project\Laundry App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Project\Laundry App\bin\Debug\ZstdNet.dll
+C:\Project\Laundry App\bin\Debug\System.Buffers.dll
+C:\Project\Laundry App\bin\Debug\MySql.Data.xml
+C:\Project\Laundry App\obj\Debug\Laundry App.csproj.CopyComplete
+C:\Project\Laundry App\obj\Debug\Laundry_App.Admin_Form.resources
+C:\Project\Laundry App\obj\Debug\Laundry_App.Form_Login.resources
+C:\Project\Laundry App\obj\Debug\Laundry_App.Owner_Form.resources
+C:\Project\Laundry App\obj\Debug\Laundry_App.Form_Daftar.resources
